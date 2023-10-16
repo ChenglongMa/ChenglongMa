@@ -26,9 +26,13 @@ I'm Chenglong Ma (马成龙).
 
 ### 🌱 GitHub Stats
 
-![Chenglong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChenglongMa&show_icons=true&count_private=true)
+<a href="https://github.com/ChenglongMa#-github-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ChenglongMa" />
+</a>
+<a href="https://github.com/ChenglongMa#-github-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChenglongMa&layout=compact&langs_count=8&card_width=320" />
+</a>
 
----
 
 <!--
 **ChenglongMa/ChenglongMa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -43,4 +47,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Chenglong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChenglongMa&show_icons=true&count_private=true)
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChenglongMa)
+
+---
 -->
