@@ -16,8 +16,6 @@ I'm Chenglong Ma (马成龙).
 
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
-
 ---
 
 <!--
