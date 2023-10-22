@@ -15,11 +15,11 @@ I'm Chenglong Ma (马成龙).
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1872](https://github.com/RUCAIBox/RecBole/pull/1872#issuecomment-1763717574) in [RUCAIBox/RecBole](https://github.com/RUCAIBox/RecBole)
-2. 🗣 Commented on [#7](https://github.com/ChenglongMa/SkinToneClassifier/issues/7#issuecomment-1741958285) in [ChenglongMa/SkinToneClassifier](https://github.com/ChenglongMa/SkinToneClassifier)
-3. 🔒 Closed issue [#3](https://github.com/ChenglongMa/SkinToneClassifier/issues/3) in [ChenglongMa/SkinToneClassifier](https://github.com/ChenglongMa/SkinToneClassifier)
-4. 🗣 Commented on [#3](https://github.com/ChenglongMa/SkinToneClassifier/issues/3#issuecomment-1741893490) in [ChenglongMa/SkinToneClassifier](https://github.com/ChenglongMa/SkinToneClassifier)
-5. 🔒 Closed issue [#7](https://github.com/ChenglongMa/SkinToneClassifier/issues/7) in [ChenglongMa/SkinToneClassifier](https://github.com/ChenglongMa/SkinToneClassifier)
+1. 🗣 Commented on [#1872](https://github.com/RUCAIBox/RecBole/pull/1872#issuecomment-1773995071) in [RUCAIBox/RecBole](https://github.com/RUCAIBox/RecBole)
+2. 🗣 Commented on [#1872](https://github.com/RUCAIBox/RecBole/pull/1872#issuecomment-1763717574) in [RUCAIBox/RecBole](https://github.com/RUCAIBox/RecBole)
+3. 🗣 Commented on [#7](https://github.com/ChenglongMa/SkinToneClassifier/issues/7#issuecomment-1741958285) in [ChenglongMa/SkinToneClassifier](https://github.com/ChenglongMa/SkinToneClassifier)
+4. 🔒 Closed issue [#3](https://github.com/ChenglongMa/SkinToneClassifier/issues/3) in [ChenglongMa/SkinToneClassifier](https://github.com/ChenglongMa/SkinToneClassifier)
+5. 🗣 Commented on [#3](https://github.com/ChenglongMa/SkinToneClassifier/issues/3#issuecomment-1741893490) in [ChenglongMa/SkinToneClassifier](https://github.com/ChenglongMa/SkinToneClassifier)
 <!--END_SECTION:activity-->
 
 ---
