@@ -15,11 +15,11 @@ I'm Chenglong Ma (马成龙).
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#28](https://github.com/windingwind/zotero-types/issues/28) in [windingwind/zotero-types](https://github.com/windingwind/zotero-types)
-2. 🗣 Commented on [#10](https://github.com/ChenglongMa/SkinToneClassifier/issues/10#issuecomment-1782858558) in [ChenglongMa/SkinToneClassifier](https://github.com/ChenglongMa/SkinToneClassifier)
-3. 🗣 Commented on [#10](https://github.com/ChenglongMa/SkinToneClassifier/issues/10#issuecomment-1782757803) in [ChenglongMa/SkinToneClassifier](https://github.com/ChenglongMa/SkinToneClassifier)
-4. ❌ Closed PR [#1872](https://github.com/RUCAIBox/RecBole/pull/1872) in [RUCAIBox/RecBole](https://github.com/RUCAIBox/RecBole)
-5. 🗣 Commented on [#1872](https://github.com/RUCAIBox/RecBole/pull/1872#issuecomment-1774003703) in [RUCAIBox/RecBole](https://github.com/RUCAIBox/RecBole)
+1. 🎉 Merged PR [#12](https://github.com/ChenglongMa/skipper-gcstorage/pull/12) in [ChenglongMa/skipper-gcstorage](https://github.com/ChenglongMa/skipper-gcstorage)
+2. ❗ Opened issue [#28](https://github.com/windingwind/zotero-types/issues/28) in [windingwind/zotero-types](https://github.com/windingwind/zotero-types)
+3. 🗣 Commented on [#10](https://github.com/ChenglongMa/SkinToneClassifier/issues/10#issuecomment-1782858558) in [ChenglongMa/SkinToneClassifier](https://github.com/ChenglongMa/SkinToneClassifier)
+4. 🗣 Commented on [#10](https://github.com/ChenglongMa/SkinToneClassifier/issues/10#issuecomment-1782757803) in [ChenglongMa/SkinToneClassifier](https://github.com/ChenglongMa/SkinToneClassifier)
+5. ❌ Closed PR [#1872](https://github.com/RUCAIBox/RecBole/pull/1872) in [RUCAIBox/RecBole](https://github.com/RUCAIBox/RecBole)
 <!--END_SECTION:activity-->
 
 ---
