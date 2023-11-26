@@ -15,11 +15,11 @@ I'm Chenglong Ma (马成龙).
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ChenglongMa/zoplicate/pull/1) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
-2. 🚀 Published release [v1.1.1](https://github.com/ChenglongMa/SkinToneClassifier/releases/tag/1.1.1) in [ChenglongMa/SkinToneClassifier](https://github.com/ChenglongMa/SkinToneClassifier)
-3. 🎉 Merged PR [#12](https://github.com/ChenglongMa/skipper-gcstorage/pull/12) in [ChenglongMa/skipper-gcstorage](https://github.com/ChenglongMa/skipper-gcstorage)
-4. ❗ Opened issue [#28](https://github.com/windingwind/zotero-types/issues/28) in [windingwind/zotero-types](https://github.com/windingwind/zotero-types)
-5. 🗣 Commented on [#10](https://github.com/ChenglongMa/SkinToneClassifier/issues/10#issuecomment-1782858558) in [ChenglongMa/SkinToneClassifier](https://github.com/ChenglongMa/SkinToneClassifier)
+1. 🚀 Published release [Release 1.0.0](https://github.com/ChenglongMa/zoplicate/releases/tag/1.0.0) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
+2. 🎉 Merged PR [#1](https://github.com/ChenglongMa/zoplicate/pull/1) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
+3. 🚀 Published release [v1.1.1](https://github.com/ChenglongMa/SkinToneClassifier/releases/tag/1.1.1) in [ChenglongMa/SkinToneClassifier](https://github.com/ChenglongMa/SkinToneClassifier)
+4. 🎉 Merged PR [#12](https://github.com/ChenglongMa/skipper-gcstorage/pull/12) in [ChenglongMa/skipper-gcstorage](https://github.com/ChenglongMa/skipper-gcstorage)
+5. ❗ Opened issue [#28](https://github.com/windingwind/zotero-types/issues/28) in [windingwind/zotero-types](https://github.com/windingwind/zotero-types)
 <!--END_SECTION:activity-->
 
 ---
