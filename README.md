@@ -15,11 +15,11 @@ I'm Chenglong Ma (马成龙).
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.1.2](https://github.com/ChenglongMa/SkinToneClassifier/releases/tag/1.1.2) in [ChenglongMa/SkinToneClassifier](https://github.com/ChenglongMa/SkinToneClassifier)
-2. 💪 Opened PR [#44](https://github.com/zotero-chinese/zotero-plugins/pull/44) in [zotero-chinese/zotero-plugins](https://github.com/zotero-chinese/zotero-plugins)
-3. 🚀 Published release [Release 1.0.0](https://github.com/ChenglongMa/zoplicate/releases/tag/1.0.0) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
-4. 🎉 Merged PR [#1](https://github.com/ChenglongMa/zoplicate/pull/1) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
-5. 🚀 Published release [v1.1.1](https://github.com/ChenglongMa/SkinToneClassifier/releases/tag/1.1.1) in [ChenglongMa/SkinToneClassifier](https://github.com/ChenglongMa/SkinToneClassifier)
+1. 🚀 Published release [zotero6](https://github.com/ChenglongMa/zoplicate/releases/tag/zotero6) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
+2. 🚀 Published release [v1.1.2](https://github.com/ChenglongMa/SkinToneClassifier/releases/tag/1.1.2) in [ChenglongMa/SkinToneClassifier](https://github.com/ChenglongMa/SkinToneClassifier)
+3. 💪 Opened PR [#44](https://github.com/zotero-chinese/zotero-plugins/pull/44) in [zotero-chinese/zotero-plugins](https://github.com/zotero-chinese/zotero-plugins)
+4. 🚀 Published release [Release 1.0.0](https://github.com/ChenglongMa/zoplicate/releases/tag/1.0.0) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
+5. 🎉 Merged PR [#1](https://github.com/ChenglongMa/zoplicate/pull/1) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
 <!--END_SECTION:activity-->
 
 ---
