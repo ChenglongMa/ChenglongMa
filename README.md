@@ -16,11 +16,11 @@ I'm Chenglong Ma (马成龙).
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#41](https://github.com/windingwind/zotero-plugin-toolkit/issues/41#issuecomment-1889150031) in [windingwind/zotero-plugin-toolkit](https://github.com/windingwind/zotero-plugin-toolkit)
-2. ❗ Opened issue [#41](https://github.com/windingwind/zotero-plugin-toolkit/issues/41) in [windingwind/zotero-plugin-toolkit](https://github.com/windingwind/zotero-plugin-toolkit)
-3. 🗣 Commented on [#97](https://github.com/windingwind/zotero-plugin-template/pull/97#issuecomment-1888372954) in [windingwind/zotero-plugin-template](https://github.com/windingwind/zotero-plugin-template)
-4. 💪 Opened PR [#97](https://github.com/windingwind/zotero-plugin-template/pull/97) in [windingwind/zotero-plugin-template](https://github.com/windingwind/zotero-plugin-template)
-5. ❌ Closed PR [#14](https://github.com/ChenglongMa/zoplicate/pull/14) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
+1. 🔒 Closed issue [#41](https://github.com/windingwind/zotero-plugin-toolkit/issues/41) in [windingwind/zotero-plugin-toolkit](https://github.com/windingwind/zotero-plugin-toolkit)
+2. 🗣 Commented on [#41](https://github.com/windingwind/zotero-plugin-toolkit/issues/41#issuecomment-1889150031) in [windingwind/zotero-plugin-toolkit](https://github.com/windingwind/zotero-plugin-toolkit)
+3. ❗ Opened issue [#41](https://github.com/windingwind/zotero-plugin-toolkit/issues/41) in [windingwind/zotero-plugin-toolkit](https://github.com/windingwind/zotero-plugin-toolkit)
+4. 🗣 Commented on [#97](https://github.com/windingwind/zotero-plugin-template/pull/97#issuecomment-1888372954) in [windingwind/zotero-plugin-template](https://github.com/windingwind/zotero-plugin-template)
+5. 💪 Opened PR [#97](https://github.com/windingwind/zotero-plugin-template/pull/97) in [windingwind/zotero-plugin-template](https://github.com/windingwind/zotero-plugin-template)
 <!--END_SECTION:activity-->
 
 ---
