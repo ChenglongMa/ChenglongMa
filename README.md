@@ -16,11 +16,11 @@ I'm Chenglong Ma (马成龙).
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#97](https://github.com/windingwind/zotero-plugin-template/pull/97#issuecomment-1888372954) in [windingwind/zotero-plugin-template](https://github.com/windingwind/zotero-plugin-template)
-2. 💪 Opened PR [#97](https://github.com/windingwind/zotero-plugin-template/pull/97) in [windingwind/zotero-plugin-template](https://github.com/windingwind/zotero-plugin-template)
-3. ❌ Closed PR [#14](https://github.com/ChenglongMa/zoplicate/pull/14) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
-4. ❌ Closed PR [#13](https://github.com/ChenglongMa/zoplicate/pull/13) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
-5. ❌ Closed PR [#12](https://github.com/ChenglongMa/zoplicate/pull/12) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
+1. ❗ Opened issue [#41](https://github.com/windingwind/zotero-plugin-toolkit/issues/41) in [windingwind/zotero-plugin-toolkit](https://github.com/windingwind/zotero-plugin-toolkit)
+2. 🗣 Commented on [#97](https://github.com/windingwind/zotero-plugin-template/pull/97#issuecomment-1888372954) in [windingwind/zotero-plugin-template](https://github.com/windingwind/zotero-plugin-template)
+3. 💪 Opened PR [#97](https://github.com/windingwind/zotero-plugin-template/pull/97) in [windingwind/zotero-plugin-template](https://github.com/windingwind/zotero-plugin-template)
+4. ❌ Closed PR [#14](https://github.com/ChenglongMa/zoplicate/pull/14) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
+5. ❌ Closed PR [#13](https://github.com/ChenglongMa/zoplicate/pull/13) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
 <!--END_SECTION:activity-->
 
 ---
