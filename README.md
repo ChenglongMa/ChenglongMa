@@ -16,11 +16,11 @@ I'm Chenglong Ma (马成龙).
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/ChenglongMa/zoplicate/issues/8#issuecomment-1890850303) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
-2. 🔒 Closed issue [#8](https://github.com/ChenglongMa/zoplicate/issues/8) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
-3. 🔒 Closed issue [#41](https://github.com/windingwind/zotero-plugin-toolkit/issues/41) in [windingwind/zotero-plugin-toolkit](https://github.com/windingwind/zotero-plugin-toolkit)
-4. 🗣 Commented on [#41](https://github.com/windingwind/zotero-plugin-toolkit/issues/41#issuecomment-1889150031) in [windingwind/zotero-plugin-toolkit](https://github.com/windingwind/zotero-plugin-toolkit)
-5. ❗ Opened issue [#41](https://github.com/windingwind/zotero-plugin-toolkit/issues/41) in [windingwind/zotero-plugin-toolkit](https://github.com/windingwind/zotero-plugin-toolkit)
+1. 🗣 Commented on [#15](https://github.com/ChenglongMa/SkinToneClassifier/issues/15#issuecomment-1894752223) in [ChenglongMa/SkinToneClassifier](https://github.com/ChenglongMa/SkinToneClassifier)
+2. 🗣 Commented on [#8](https://github.com/ChenglongMa/zoplicate/issues/8#issuecomment-1890850303) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
+3. 🔒 Closed issue [#8](https://github.com/ChenglongMa/zoplicate/issues/8) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
+4. 🔒 Closed issue [#41](https://github.com/windingwind/zotero-plugin-toolkit/issues/41) in [windingwind/zotero-plugin-toolkit](https://github.com/windingwind/zotero-plugin-toolkit)
+5. 🗣 Commented on [#41](https://github.com/windingwind/zotero-plugin-toolkit/issues/41#issuecomment-1889150031) in [windingwind/zotero-plugin-toolkit](https://github.com/windingwind/zotero-plugin-toolkit)
 <!--END_SECTION:activity-->
 
 ---
