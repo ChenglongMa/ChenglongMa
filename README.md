@@ -17,11 +17,11 @@ I'm Chenglong Ma (马成龙).
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29](https://github.com/MuiseDestiny/zotero-attanger/issues/29#issuecomment-1909308910) in [MuiseDestiny/zotero-attanger](https://github.com/MuiseDestiny/zotero-attanger)
-2. ❗ Opened issue [#29](https://github.com/MuiseDestiny/zotero-attanger/issues/29) in [MuiseDestiny/zotero-attanger](https://github.com/MuiseDestiny/zotero-attanger)
-3. 🗣 Commented on [#15](https://github.com/ChenglongMa/SkinToneClassifier/issues/15#issuecomment-1897492022) in [ChenglongMa/SkinToneClassifier](https://github.com/ChenglongMa/SkinToneClassifier)
-4. 🗣 Commented on [#15](https://github.com/ChenglongMa/SkinToneClassifier/issues/15#issuecomment-1895453356) in [ChenglongMa/SkinToneClassifier](https://github.com/ChenglongMa/SkinToneClassifier)
-5. 🗣 Commented on [#15](https://github.com/ChenglongMa/SkinToneClassifier/issues/15#issuecomment-1894752223) in [ChenglongMa/SkinToneClassifier](https://github.com/ChenglongMa/SkinToneClassifier)
+1. 🗣 Commented on [#15](https://github.com/ChenglongMa/zoplicate/issues/15#issuecomment-1914344825) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
+2. 🗣 Commented on [#29](https://github.com/MuiseDestiny/zotero-attanger/issues/29#issuecomment-1909308910) in [MuiseDestiny/zotero-attanger](https://github.com/MuiseDestiny/zotero-attanger)
+3. ❗ Opened issue [#29](https://github.com/MuiseDestiny/zotero-attanger/issues/29) in [MuiseDestiny/zotero-attanger](https://github.com/MuiseDestiny/zotero-attanger)
+4. 🗣 Commented on [#15](https://github.com/ChenglongMa/SkinToneClassifier/issues/15#issuecomment-1897492022) in [ChenglongMa/SkinToneClassifier](https://github.com/ChenglongMa/SkinToneClassifier)
+5. 🗣 Commented on [#15](https://github.com/ChenglongMa/SkinToneClassifier/issues/15#issuecomment-1895453356) in [ChenglongMa/SkinToneClassifier](https://github.com/ChenglongMa/SkinToneClassifier)
 <!--END_SECTION:activity-->
 
 ---
