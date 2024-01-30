@@ -17,9 +17,9 @@ I'm Chenglong Ma (马成龙).
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.2.1](https://github.com/ChenglongMa/SkinToneClassifier/releases/tag/1.2.1) in [ChenglongMa/SkinToneClassifier](https://github.com/ChenglongMa/SkinToneClassifier)
+1. 🚀 Published release [v1.2.2](https://github.com/ChenglongMa/SkinToneClassifier/releases/tag/1.2.2) in [ChenglongMa/SkinToneClassifier](https://github.com/ChenglongMa/SkinToneClassifier)
 2. 🚀 Published release [v1.2.1](https://github.com/ChenglongMa/SkinToneClassifier/releases/tag/1.2.1) in [ChenglongMa/SkinToneClassifier](https://github.com/ChenglongMa/SkinToneClassifier)
-3. 🚀 Published release [v1.2.0](https://github.com/ChenglongMa/SkinToneClassifier/releases/tag/1.2.0) in [ChenglongMa/SkinToneClassifier](https://github.com/ChenglongMa/SkinToneClassifier)
+3. 🚀 Published release [v1.2.1](https://github.com/ChenglongMa/SkinToneClassifier/releases/tag/1.2.1) in [ChenglongMa/SkinToneClassifier](https://github.com/ChenglongMa/SkinToneClassifier)
 4. 🚀 Published release [v1.2.0](https://github.com/ChenglongMa/SkinToneClassifier/releases/tag/1.2.0) in [ChenglongMa/SkinToneClassifier](https://github.com/ChenglongMa/SkinToneClassifier)
 5. 🚀 Published release [v1.2.0](https://github.com/ChenglongMa/SkinToneClassifier/releases/tag/1.2.0) in [ChenglongMa/SkinToneClassifier](https://github.com/ChenglongMa/SkinToneClassifier)
 <!--END_SECTION:activity-->
