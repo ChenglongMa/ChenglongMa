@@ -17,11 +17,11 @@ I'm Chenglong Ma (马成龙).
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#758](https://github.com/chriskiehl/Gooey/issues/758#issuecomment-1914938741) in [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey)
-2. 🗣 Commented on [#900](https://github.com/chriskiehl/Gooey/pull/900#issuecomment-1914595208) in [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey)
-3. 💪 Opened PR [#900](https://github.com/chriskiehl/Gooey/pull/900) in [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey)
-4. 🗣 Commented on [#15](https://github.com/ChenglongMa/zoplicate/issues/15#issuecomment-1914344825) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
-5. 🗣 Commented on [#29](https://github.com/MuiseDestiny/zotero-attanger/issues/29#issuecomment-1909308910) in [MuiseDestiny/zotero-attanger](https://github.com/MuiseDestiny/zotero-attanger)
+1. 🚀 Published release [v1.2.0](https://github.com/ChenglongMa/SkinToneClassifier/releases/tag/1.2.0) in [ChenglongMa/SkinToneClassifier](https://github.com/ChenglongMa/SkinToneClassifier)
+2. 🎉 Merged PR [#16](https://github.com/ChenglongMa/SkinToneClassifier/pull/16) in [ChenglongMa/SkinToneClassifier](https://github.com/ChenglongMa/SkinToneClassifier)
+3. 💪 Opened PR [#16](https://github.com/ChenglongMa/SkinToneClassifier/pull/16) in [ChenglongMa/SkinToneClassifier](https://github.com/ChenglongMa/SkinToneClassifier)
+4. 🗣 Commented on [#758](https://github.com/chriskiehl/Gooey/issues/758#issuecomment-1914938741) in [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey)
+5. 🗣 Commented on [#900](https://github.com/chriskiehl/Gooey/pull/900#issuecomment-1914595208) in [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey)
 <!--END_SECTION:activity-->
 
 ---
