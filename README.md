@@ -20,11 +20,11 @@ I'm Chenglong Ma (马成龙).
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/ChenglongMa/zoplicate/pull/20) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
-2. 🎉 Merged PR [#19](https://github.com/ChenglongMa/zoplicate/pull/19) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
-3. 🗣 Commented on [#15](https://github.com/ChenglongMa/zoplicate/issues/15#issuecomment-1940021173) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
-4. 🔒 Closed issue [#15](https://github.com/ChenglongMa/zoplicate/issues/15) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
-5. 🗣 Commented on [#15](https://github.com/ChenglongMa/zoplicate/issues/15#issuecomment-1928659916) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
+1. 🎉 Merged PR [#22](https://github.com/ChenglongMa/zoplicate/pull/22) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
+2. 💪 Opened PR [#22](https://github.com/ChenglongMa/zoplicate/pull/22) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
+3. 🎉 Merged PR [#21](https://github.com/ChenglongMa/zoplicate/pull/21) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
+4. 🎉 Merged PR [#20](https://github.com/ChenglongMa/zoplicate/pull/20) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
+5. 🎉 Merged PR [#19](https://github.com/ChenglongMa/zoplicate/pull/19) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
 <!--END_SECTION:activity-->
 
 ---
