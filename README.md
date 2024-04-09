@@ -20,11 +20,11 @@ I'm Chenglong Ma (马成龙).
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#31](https://github.com/ChenglongMa/SkinToneClassifier/issues/31#issuecomment-2043955682) in [ChenglongMa/SkinToneClassifier](https://github.com/ChenglongMa/SkinToneClassifier)
-2. 🗣 Commented on [#31](https://github.com/ChenglongMa/SkinToneClassifier/issues/31#issuecomment-2043808936) in [ChenglongMa/SkinToneClassifier](https://github.com/ChenglongMa/SkinToneClassifier)
-3. 🗣 Commented on [#31](https://github.com/ChenglongMa/SkinToneClassifier/issues/31#issuecomment-2042844267) in [ChenglongMa/SkinToneClassifier](https://github.com/ChenglongMa/SkinToneClassifier)
-4. 🗣 Commented on [#27](https://github.com/ChenglongMa/zoplicate/issues/27#issuecomment-2029656820) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
-5. ❌ Closed PR [#26](https://github.com/ChenglongMa/zoplicate/pull/26) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
+1. 🗣 Commented on [#31](https://github.com/ChenglongMa/SkinToneClassifier/issues/31#issuecomment-2044219218) in [ChenglongMa/SkinToneClassifier](https://github.com/ChenglongMa/SkinToneClassifier)
+2. 🗣 Commented on [#31](https://github.com/ChenglongMa/SkinToneClassifier/issues/31#issuecomment-2043955682) in [ChenglongMa/SkinToneClassifier](https://github.com/ChenglongMa/SkinToneClassifier)
+3. 🗣 Commented on [#31](https://github.com/ChenglongMa/SkinToneClassifier/issues/31#issuecomment-2043808936) in [ChenglongMa/SkinToneClassifier](https://github.com/ChenglongMa/SkinToneClassifier)
+4. 🗣 Commented on [#31](https://github.com/ChenglongMa/SkinToneClassifier/issues/31#issuecomment-2042844267) in [ChenglongMa/SkinToneClassifier](https://github.com/ChenglongMa/SkinToneClassifier)
+5. 🗣 Commented on [#27](https://github.com/ChenglongMa/zoplicate/issues/27#issuecomment-2029656820) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
 <!--END_SECTION:activity-->
 
 ---
