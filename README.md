@@ -20,11 +20,11 @@ I'm Chenglong Ma (马成龙).
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.9](https://github.com/ChenglongMa/waker-mac/releases/tag/0.9) in [ChenglongMa/waker-mac](https://github.com/ChenglongMa/waker-mac)
-2. 🗣 Commented on [#30](https://github.com/ChenglongMa/zoplicate/issues/30#issuecomment-2052672466) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
-3. 🗣 Commented on [#30](https://github.com/ChenglongMa/zoplicate/issues/30#issuecomment-2050682113) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
-4. 🗣 Commented on [#31](https://github.com/ChenglongMa/SkinToneClassifier/issues/31#issuecomment-2044219218) in [ChenglongMa/SkinToneClassifier](https://github.com/ChenglongMa/SkinToneClassifier)
-5. 🗣 Commented on [#31](https://github.com/ChenglongMa/SkinToneClassifier/issues/31#issuecomment-2043955682) in [ChenglongMa/SkinToneClassifier](https://github.com/ChenglongMa/SkinToneClassifier)
+1. 🚀 Published release [v1.0](https://github.com/ChenglongMa/waker-mac/releases/tag/1.0) in [ChenglongMa/waker-mac](https://github.com/ChenglongMa/waker-mac)
+2. 🚀 Published release [v0.9](https://github.com/ChenglongMa/waker-mac/releases/tag/0.9) in [ChenglongMa/waker-mac](https://github.com/ChenglongMa/waker-mac)
+3. 🗣 Commented on [#30](https://github.com/ChenglongMa/zoplicate/issues/30#issuecomment-2052672466) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
+4. 🗣 Commented on [#30](https://github.com/ChenglongMa/zoplicate/issues/30#issuecomment-2050682113) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
+5. 🗣 Commented on [#31](https://github.com/ChenglongMa/SkinToneClassifier/issues/31#issuecomment-2044219218) in [ChenglongMa/SkinToneClassifier](https://github.com/ChenglongMa/SkinToneClassifier)
 <!--END_SECTION:activity-->
 
 ---
