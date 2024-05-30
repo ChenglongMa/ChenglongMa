@@ -20,11 +20,11 @@ I'm Chenglong Ma (马成龙).
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#47](https://github.com/ChenglongMa/zoplicate/issues/47#issuecomment-2136464301) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
-2. 🗣 Commented on [#43](https://github.com/ChenglongMa/zoplicate/issues/43#issuecomment-2130511391) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
-3. 🗣 Commented on [#36](https://github.com/ChenglongMa/zoplicate/issues/36#issuecomment-2120520782) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
-4. 🚀 Published release [Release 3.0.2](https://github.com/ChenglongMa/zoplicate/releases/tag/3.0.2) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
-5. 🎉 Merged PR [#40](https://github.com/ChenglongMa/zoplicate/pull/40) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
+1. 🗣 Commented on [#48](https://github.com/ChenglongMa/zoplicate/issues/48#issuecomment-2138529261) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
+2. 🗣 Commented on [#48](https://github.com/ChenglongMa/zoplicate/issues/48#issuecomment-2138521202) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
+3. 🗣 Commented on [#47](https://github.com/ChenglongMa/zoplicate/issues/47#issuecomment-2136464301) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
+4. 🗣 Commented on [#43](https://github.com/ChenglongMa/zoplicate/issues/43#issuecomment-2130511391) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
+5. 🗣 Commented on [#36](https://github.com/ChenglongMa/zoplicate/issues/36#issuecomment-2120520782) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
 <!--END_SECTION:activity-->
 
 ---
