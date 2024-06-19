@@ -20,11 +20,11 @@ I'm Chenglong Ma (马成龙).
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Release v1.0.2](https://github.com/ChenglongMa/LOLauncher/releases/tag/1.0.2) in [ChenglongMa/LOLauncher](https://github.com/ChenglongMa/LOLauncher)
-2. 🎉 Merged PR [#5](https://github.com/ChenglongMa/LOLauncher/pull/5) in [ChenglongMa/LOLauncher](https://github.com/ChenglongMa/LOLauncher)
-3. 💪 Opened PR [#5](https://github.com/ChenglongMa/LOLauncher/pull/5) in [ChenglongMa/LOLauncher](https://github.com/ChenglongMa/LOLauncher)
-4. 🗣 Commented on [#54](https://github.com/ChenglongMa/zoplicate/issues/54#issuecomment-2164803472) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
-5. 🗣 Commented on [#54](https://github.com/ChenglongMa/zoplicate/issues/54#issuecomment-2164596611) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
+1. 🗣 Commented on [#55](https://github.com/ChenglongMa/zoplicate/issues/55#issuecomment-2177860175) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
+2. 🚀 Published release [Release v1.0.2](https://github.com/ChenglongMa/LOLauncher/releases/tag/1.0.2) in [ChenglongMa/LOLauncher](https://github.com/ChenglongMa/LOLauncher)
+3. 🎉 Merged PR [#5](https://github.com/ChenglongMa/LOLauncher/pull/5) in [ChenglongMa/LOLauncher](https://github.com/ChenglongMa/LOLauncher)
+4. 💪 Opened PR [#5](https://github.com/ChenglongMa/LOLauncher/pull/5) in [ChenglongMa/LOLauncher](https://github.com/ChenglongMa/LOLauncher)
+5. 🗣 Commented on [#54](https://github.com/ChenglongMa/zoplicate/issues/54#issuecomment-2164803472) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
 <!--END_SECTION:activity-->
 
 ---
