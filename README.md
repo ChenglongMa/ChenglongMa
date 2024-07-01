@@ -20,11 +20,11 @@ I'm Chenglong Ma (马成龙).
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#195](https://github.com/northword/zotero-format-metadata/issues/195#issuecomment-2198451632) in [northword/zotero-format-metadata](https://github.com/northword/zotero-format-metadata)
-2. 🚀 Published release [Release v1.1.0](https://github.com/ChenglongMa/LOLauncher/releases/tag/1.1.0) in [ChenglongMa/LOLauncher](https://github.com/ChenglongMa/LOLauncher)
-3. 🎉 Merged PR [#8](https://github.com/ChenglongMa/LOLauncher/pull/8) in [ChenglongMa/LOLauncher](https://github.com/ChenglongMa/LOLauncher)
-4. 💪 Opened PR [#8](https://github.com/ChenglongMa/LOLauncher/pull/8) in [ChenglongMa/LOLauncher](https://github.com/ChenglongMa/LOLauncher)
-5. 🗣 Commented on [#7](https://github.com/ChenglongMa/LOLauncher/issues/7#issuecomment-2182394497) in [ChenglongMa/LOLauncher](https://github.com/ChenglongMa/LOLauncher)
+1. 🗣 Commented on [#55](https://github.com/ChenglongMa/zoplicate/issues/55#issuecomment-2199221554) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
+2. 🗣 Commented on [#195](https://github.com/northword/zotero-format-metadata/issues/195#issuecomment-2198451632) in [northword/zotero-format-metadata](https://github.com/northword/zotero-format-metadata)
+3. 🚀 Published release [Release v1.1.0](https://github.com/ChenglongMa/LOLauncher/releases/tag/1.1.0) in [ChenglongMa/LOLauncher](https://github.com/ChenglongMa/LOLauncher)
+4. 🎉 Merged PR [#8](https://github.com/ChenglongMa/LOLauncher/pull/8) in [ChenglongMa/LOLauncher](https://github.com/ChenglongMa/LOLauncher)
+5. 💪 Opened PR [#8](https://github.com/ChenglongMa/LOLauncher/pull/8) in [ChenglongMa/LOLauncher](https://github.com/ChenglongMa/LOLauncher)
 <!--END_SECTION:activity-->
 
 ---
