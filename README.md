@@ -20,11 +20,11 @@ I'm Chenglong Ma (马成龙).
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/ChenglongMa/LOLauncher/issues/12#issuecomment-2268216503) in [ChenglongMa/LOLauncher](https://github.com/ChenglongMa/LOLauncher)
-2. 🗣 Commented on [#12](https://github.com/ChenglongMa/LOLauncher/issues/12#issuecomment-2267991342) in [ChenglongMa/LOLauncher](https://github.com/ChenglongMa/LOLauncher)
-3. 🎉 Merged PR [#15](https://github.com/ChenglongMa/LOLauncher/pull/15) in [ChenglongMa/LOLauncher](https://github.com/ChenglongMa/LOLauncher)
-4. 💪 Opened PR [#15](https://github.com/ChenglongMa/LOLauncher/pull/15) in [ChenglongMa/LOLauncher](https://github.com/ChenglongMa/LOLauncher)
-5. 🚀 Published release [Release v1.0.2](https://github.com/ChenglongMa/waker/releases/tag/1.0.2) in [ChenglongMa/waker](https://github.com/ChenglongMa/waker)
+1. 🚀 Published release [Release v1.2.2](https://github.com/ChenglongMa/LOLauncher/releases/tag/1.2.2) in [ChenglongMa/LOLauncher](https://github.com/ChenglongMa/LOLauncher)
+2. 🗣 Commented on [#12](https://github.com/ChenglongMa/LOLauncher/issues/12#issuecomment-2268216503) in [ChenglongMa/LOLauncher](https://github.com/ChenglongMa/LOLauncher)
+3. 🗣 Commented on [#12](https://github.com/ChenglongMa/LOLauncher/issues/12#issuecomment-2267991342) in [ChenglongMa/LOLauncher](https://github.com/ChenglongMa/LOLauncher)
+4. 🎉 Merged PR [#15](https://github.com/ChenglongMa/LOLauncher/pull/15) in [ChenglongMa/LOLauncher](https://github.com/ChenglongMa/LOLauncher)
+5. 💪 Opened PR [#15](https://github.com/ChenglongMa/LOLauncher/pull/15) in [ChenglongMa/LOLauncher](https://github.com/ChenglongMa/LOLauncher)
 <!--END_SECTION:activity-->
 
 ---
