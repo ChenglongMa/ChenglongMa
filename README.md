@@ -7,14 +7,14 @@ I'm Chenglong Ma (马成龙).
 
 ### 📫 How to reach me:
 
-#### Social Media
+#### 🎭 Social Media
 [![My Portfolio](https://img.shields.io/badge/Visit_me_at-https://chenglongma.com-blue)](https://chenglongma.com)
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/machenglong/)
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/ChenglongM)](https://twitter.com/ChenglongM)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/chenglongma)
 [![Mastodon Follow](https://img.shields.io/mastodon/follow/111725051309513061)](https://mastodon.social/@chenglongma)
 
-#### Video platform
+#### 📺 Video platform
 [![Bilibili](https://img.shields.io/badge/Bilibili-0A0A0A?logo=bilibili)](https://space.bilibili.com/3546378431105317)
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLYRpHlp-9V_E5ZLhW1hbNaVjS5Zg6b6kQ&si=ezxUR7McUbZa4clT)
 
