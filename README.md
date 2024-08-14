@@ -23,11 +23,11 @@ I'm Chenglong Ma (马成龙).
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/frangoud/ZoteroDuplicatesMerger/pull/16#issuecomment-2287765217) in [frangoud/ZoteroDuplicatesMerger](https://github.com/frangoud/ZoteroDuplicatesMerger)
-2. 🗣 Commented on [#14](https://github.com/frangoud/ZoteroDuplicatesMerger/issues/14#issuecomment-2287254476) in [frangoud/ZoteroDuplicatesMerger](https://github.com/frangoud/ZoteroDuplicatesMerger)
-3. 💪 Opened PR [#16](https://github.com/frangoud/ZoteroDuplicatesMerger/pull/16) in [frangoud/ZoteroDuplicatesMerger](https://github.com/frangoud/ZoteroDuplicatesMerger)
-4. ❗ Opened issue [#57](https://github.com/windingwind/zotero-plugin-toolkit/issues/57) in [windingwind/zotero-plugin-toolkit](https://github.com/windingwind/zotero-plugin-toolkit)
-5. 🗣 Commented on [#9](https://github.com/frangoud/ZoteroDuplicatesMerger/issues/9#issuecomment-2285160142) in [frangoud/ZoteroDuplicatesMerger](https://github.com/frangoud/ZoteroDuplicatesMerger)
+1. 🗣 Commented on [#16](https://github.com/frangoud/ZoteroDuplicatesMerger/pull/16#issuecomment-2287782585) in [frangoud/ZoteroDuplicatesMerger](https://github.com/frangoud/ZoteroDuplicatesMerger)
+2. ❌ Closed PR [#16](https://github.com/frangoud/ZoteroDuplicatesMerger/pull/16) in [frangoud/ZoteroDuplicatesMerger](https://github.com/frangoud/ZoteroDuplicatesMerger)
+3. 🗣 Commented on [#16](https://github.com/frangoud/ZoteroDuplicatesMerger/pull/16#issuecomment-2287765217) in [frangoud/ZoteroDuplicatesMerger](https://github.com/frangoud/ZoteroDuplicatesMerger)
+4. 🗣 Commented on [#14](https://github.com/frangoud/ZoteroDuplicatesMerger/issues/14#issuecomment-2287254476) in [frangoud/ZoteroDuplicatesMerger](https://github.com/frangoud/ZoteroDuplicatesMerger)
+5. 💪 Opened PR [#16](https://github.com/frangoud/ZoteroDuplicatesMerger/pull/16) in [frangoud/ZoteroDuplicatesMerger](https://github.com/frangoud/ZoteroDuplicatesMerger)
 <!--END_SECTION:activity-->
 
 ---
