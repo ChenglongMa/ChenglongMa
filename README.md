@@ -23,11 +23,11 @@ I'm Chenglong Ma (马成龙).
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#84](https://github.com/ChenglongMa/zoplicate/issues/84#issuecomment-2292862991) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
-2. 💪 Opened PR [#165](https://github.com/redleafnew/zotero-updateifsE/pull/165) in [redleafnew/zotero-updateifsE](https://github.com/redleafnew/zotero-updateifsE)
-3. 🗣 Commented on [#84](https://github.com/ChenglongMa/zoplicate/issues/84#issuecomment-2291107348) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
-4. 🗣 Commented on [#84](https://github.com/ChenglongMa/zoplicate/issues/84#issuecomment-2290440997) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
-5. 🗣 Commented on [#16](https://github.com/frangoud/ZoteroDuplicatesMerger/pull/16#issuecomment-2287782585) in [frangoud/ZoteroDuplicatesMerger](https://github.com/frangoud/ZoteroDuplicatesMerger)
+1. ❌ Closed PR [#83](https://github.com/ChenglongMa/zoplicate/pull/83) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
+2. ❌ Closed PR [#82](https://github.com/ChenglongMa/zoplicate/pull/82) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
+3. ❌ Closed PR [#78](https://github.com/ChenglongMa/zoplicate/pull/78) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
+4. ❌ Closed PR [#77](https://github.com/ChenglongMa/zoplicate/pull/77) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
+5. ❌ Closed PR [#71](https://github.com/ChenglongMa/zoplicate/pull/71) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
 <!--END_SECTION:activity-->
 
 ---
