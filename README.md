@@ -2,7 +2,7 @@
 
 I'm Chenglong Ma (马成龙). 
 
-* I am a PhD Candidate on a Mission to Optimize User Experiences on Recommender Systems ✨
+* I am a PhD on a Mission to Optimize User Experiences on Recommender Systems ✨
 * I love building utilities aimed at increasing Developer productivity 💪 
 
 ### 📫 How to reach me:
