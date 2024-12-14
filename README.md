@@ -23,11 +23,11 @@ I'm Chenglong Ma (马成龙).
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32](https://github.com/ChenglongMa/SkinToneClassifier/issues/32#issuecomment-2539230417) in [ChenglongMa/SkinToneClassifier](https://github.com/ChenglongMa/SkinToneClassifier)
-2. 🔒 Closed issue [#32](https://github.com/ChenglongMa/SkinToneClassifier/issues/32) in [ChenglongMa/SkinToneClassifier](https://github.com/ChenglongMa/SkinToneClassifier)
-3. 🔒 Closed issue [#10](https://github.com/ChenglongMa/SkinToneClassifier/issues/10) in [ChenglongMa/SkinToneClassifier](https://github.com/ChenglongMa/SkinToneClassifier)
-4. 🗣 Commented on [#120](https://github.com/ChenglongMa/zoplicate/issues/120#issuecomment-2538910325) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
-5. 🔒 Closed issue [#120](https://github.com/ChenglongMa/zoplicate/issues/120) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
+1. 💪 Opened PR [#2128](https://github.com/RUCAIBox/RecBole/pull/2128) in [RUCAIBox/RecBole](https://github.com/RUCAIBox/RecBole)
+2. 🗣 Commented on [#32](https://github.com/ChenglongMa/SkinToneClassifier/issues/32#issuecomment-2539230417) in [ChenglongMa/SkinToneClassifier](https://github.com/ChenglongMa/SkinToneClassifier)
+3. 🔒 Closed issue [#32](https://github.com/ChenglongMa/SkinToneClassifier/issues/32) in [ChenglongMa/SkinToneClassifier](https://github.com/ChenglongMa/SkinToneClassifier)
+4. 🔒 Closed issue [#10](https://github.com/ChenglongMa/SkinToneClassifier/issues/10) in [ChenglongMa/SkinToneClassifier](https://github.com/ChenglongMa/SkinToneClassifier)
+5. 🗣 Commented on [#120](https://github.com/ChenglongMa/zoplicate/issues/120#issuecomment-2538910325) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
 <!--END_SECTION:activity-->
 
 ---
