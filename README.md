@@ -23,11 +23,11 @@ I'm Chenglong Ma (马成龙).
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#127](https://github.com/ChenglongMa/zoplicate/issues/127#issuecomment-2552403487) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
-2. 🗣 Commented on [#127](https://github.com/ChenglongMa/zoplicate/issues/127#issuecomment-2545496663) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
-3. 💪 Opened PR [#2128](https://github.com/RUCAIBox/RecBole/pull/2128) in [RUCAIBox/RecBole](https://github.com/RUCAIBox/RecBole)
-4. 🗣 Commented on [#32](https://github.com/ChenglongMa/SkinToneClassifier/issues/32#issuecomment-2539230417) in [ChenglongMa/SkinToneClassifier](https://github.com/ChenglongMa/SkinToneClassifier)
-5. 🔒 Closed issue [#32](https://github.com/ChenglongMa/SkinToneClassifier/issues/32) in [ChenglongMa/SkinToneClassifier](https://github.com/ChenglongMa/SkinToneClassifier)
+1. 🗣 Commented on [#18](https://github.com/ChenglongMa/LOLauncher/issues/18#issuecomment-2568746037) in [ChenglongMa/LOLauncher](https://github.com/ChenglongMa/LOLauncher)
+2. 🗣 Commented on [#127](https://github.com/ChenglongMa/zoplicate/issues/127#issuecomment-2552403487) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
+3. 🗣 Commented on [#127](https://github.com/ChenglongMa/zoplicate/issues/127#issuecomment-2545496663) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
+4. 💪 Opened PR [#2128](https://github.com/RUCAIBox/RecBole/pull/2128) in [RUCAIBox/RecBole](https://github.com/RUCAIBox/RecBole)
+5. 🗣 Commented on [#32](https://github.com/ChenglongMa/SkinToneClassifier/issues/32#issuecomment-2539230417) in [ChenglongMa/SkinToneClassifier](https://github.com/ChenglongMa/SkinToneClassifier)
 <!--END_SECTION:activity-->
 
 ---
