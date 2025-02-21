@@ -23,8 +23,8 @@ I'm Chenglong Ma (马成龙).
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#93](https://github.com/ChenglongMa/zoplicate/issues/93#issuecomment-2614110011) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
-2. 🗣 Commented on [#134](https://github.com/ChenglongMa/zoplicate/issues/134#issuecomment-2581824022) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
+1. 🗣 Commented on [#20](https://github.com/ChenglongMa/LOLauncher/pull/20#issuecomment-2673260325) in [ChenglongMa/LOLauncher](https://github.com/ChenglongMa/LOLauncher)
+2. 🗣 Commented on [#93](https://github.com/ChenglongMa/zoplicate/issues/93#issuecomment-2614110011) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
 3. 🔒 Closed issue [#134](https://github.com/ChenglongMa/zoplicate/issues/134) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
 4. 🗣 Commented on [#135](https://github.com/ChenglongMa/zoplicate/issues/135#issuecomment-2581814775) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
 5. 🗣 Commented on [#134](https://github.com/ChenglongMa/zoplicate/issues/134#issuecomment-2581806801) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
