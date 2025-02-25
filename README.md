@@ -23,11 +23,11 @@ I'm Chenglong Ma (马成龙).
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/ChenglongMa/LOLauncher/pull/20) in [ChenglongMa/LOLauncher](https://github.com/ChenglongMa/LOLauncher)
-2. 🗣 Commented on [#20](https://github.com/ChenglongMa/LOLauncher/pull/20#issuecomment-2673528948) in [ChenglongMa/LOLauncher](https://github.com/ChenglongMa/LOLauncher)
-3. 🗣 Commented on [#20](https://github.com/ChenglongMa/LOLauncher/pull/20#issuecomment-2673503070) in [ChenglongMa/LOLauncher](https://github.com/ChenglongMa/LOLauncher)
-4. 🗣 Commented on [#20](https://github.com/ChenglongMa/LOLauncher/pull/20#issuecomment-2673260325) in [ChenglongMa/LOLauncher](https://github.com/ChenglongMa/LOLauncher)
-5. 🗣 Commented on [#93](https://github.com/ChenglongMa/zoplicate/issues/93#issuecomment-2614110011) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
+1. 💪 Opened PR [#76](https://github.com/windingwind/zotero-plugin-toolkit/pull/76) in [windingwind/zotero-plugin-toolkit](https://github.com/windingwind/zotero-plugin-toolkit)
+2. 🎉 Merged PR [#20](https://github.com/ChenglongMa/LOLauncher/pull/20) in [ChenglongMa/LOLauncher](https://github.com/ChenglongMa/LOLauncher)
+3. 🗣 Commented on [#20](https://github.com/ChenglongMa/LOLauncher/pull/20#issuecomment-2673528948) in [ChenglongMa/LOLauncher](https://github.com/ChenglongMa/LOLauncher)
+4. 🗣 Commented on [#20](https://github.com/ChenglongMa/LOLauncher/pull/20#issuecomment-2673503070) in [ChenglongMa/LOLauncher](https://github.com/ChenglongMa/LOLauncher)
+5. 🗣 Commented on [#20](https://github.com/ChenglongMa/LOLauncher/pull/20#issuecomment-2673260325) in [ChenglongMa/LOLauncher](https://github.com/ChenglongMa/LOLauncher)
 <!--END_SECTION:activity-->
 
 ---
