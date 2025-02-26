@@ -23,11 +23,11 @@ I'm Chenglong Ma (马成龙).
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#150](https://github.com/ChenglongMa/zoplicate/issues/150#issuecomment-2683729154) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
-2. 🗣 Commented on [#149](https://github.com/ChenglongMa/zoplicate/issues/149#issuecomment-2682353345) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
-3. 💪 Opened PR [#76](https://github.com/windingwind/zotero-plugin-toolkit/pull/76) in [windingwind/zotero-plugin-toolkit](https://github.com/windingwind/zotero-plugin-toolkit)
-4. 🎉 Merged PR [#20](https://github.com/ChenglongMa/LOLauncher/pull/20) in [ChenglongMa/LOLauncher](https://github.com/ChenglongMa/LOLauncher)
-5. 🗣 Commented on [#20](https://github.com/ChenglongMa/LOLauncher/pull/20#issuecomment-2673528948) in [ChenglongMa/LOLauncher](https://github.com/ChenglongMa/LOLauncher)
+1. 🗣 Commented on [#149](https://github.com/ChenglongMa/zoplicate/issues/149#issuecomment-2684818203) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
+2. 🗣 Commented on [#150](https://github.com/ChenglongMa/zoplicate/issues/150#issuecomment-2684797209) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
+3. 🔒 Closed issue [#150](https://github.com/ChenglongMa/zoplicate/issues/150) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
+4. 🗣 Commented on [#150](https://github.com/ChenglongMa/zoplicate/issues/150#issuecomment-2683729154) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
+5. 🗣 Commented on [#149](https://github.com/ChenglongMa/zoplicate/issues/149#issuecomment-2682353345) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
 <!--END_SECTION:activity-->
 
 ---
