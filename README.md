@@ -23,11 +23,11 @@ I'm Chenglong Ma (马成龙).
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#146](https://github.com/ChenglongMa/zoplicate/issues/146#issuecomment-2687443815) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
-2. 🔒 Closed issue [#146](https://github.com/ChenglongMa/zoplicate/issues/146) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
-3. 🗣 Commented on [#147](https://github.com/ChenglongMa/zoplicate/issues/147#issuecomment-2687441396) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
-4. 🔒 Closed issue [#147](https://github.com/ChenglongMa/zoplicate/issues/147) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
-5. 🚀 Published release [Release v3.0.8](https://github.com/ChenglongMa/zoplicate/releases/tag/3.0.8) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
+1. 🗣 Commented on [#138](https://github.com/ChenglongMa/zoplicate/pull/138#issuecomment-2687460396) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
+2. 🗣 Commented on [#146](https://github.com/ChenglongMa/zoplicate/issues/146#issuecomment-2687443815) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
+3. 🔒 Closed issue [#146](https://github.com/ChenglongMa/zoplicate/issues/146) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
+4. 🗣 Commented on [#147](https://github.com/ChenglongMa/zoplicate/issues/147#issuecomment-2687441396) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
+5. 🔒 Closed issue [#147](https://github.com/ChenglongMa/zoplicate/issues/147) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
 <!--END_SECTION:activity-->
 
 ---
