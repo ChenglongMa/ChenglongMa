@@ -23,9 +23,9 @@ I'm Chenglong Ma (马成龙).
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#199](https://github.com/KyleBing/rime-wubi86-jidian/issues/199) in [KyleBing/rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian)
-2. 🗣 Commented on [#192](https://github.com/ChenglongMa/zoplicate/issues/192#issuecomment-4070843770) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
-3. 🗣 Commented on [#26](https://github.com/ChenglongMa/LOLauncher/issues/26#issuecomment-4031822242) in [ChenglongMa/LOLauncher](https://github.com/ChenglongMa/LOLauncher)
+1. 🗣 Commented on [#195](https://github.com/ChenglongMa/zoplicate/issues/195#issuecomment-4230355309) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
+2. ❗ Opened issue [#199](https://github.com/KyleBing/rime-wubi86-jidian/issues/199) in [KyleBing/rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian)
+3. 🗣 Commented on [#192](https://github.com/ChenglongMa/zoplicate/issues/192#issuecomment-4070843770) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
 4. 🗣 Commented on [#176](https://github.com/ChenglongMa/zoplicate/issues/176#issuecomment-3998137449) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
 5. 🗣 Commented on [#186](https://github.com/ChenglongMa/zoplicate/issues/186#issuecomment-3940671082) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
 <!--END_SECTION:activity-->
