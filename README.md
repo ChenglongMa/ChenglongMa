@@ -23,11 +23,11 @@ I'm Chenglong Ma (马成龙).
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#201](https://github.com/ChenglongMa/zoplicate/issues/201#issuecomment-4450199837) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
-2. 🗣 Commented on [#201](https://github.com/ChenglongMa/zoplicate/issues/201#issuecomment-4450153752) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
-3. 🗣 Commented on [#26](https://github.com/ChenglongMa/LOLauncher/issues/26#issuecomment-4349604280) in [ChenglongMa/LOLauncher](https://github.com/ChenglongMa/LOLauncher)
-4. 🗣 Commented on [#26](https://github.com/ChenglongMa/LOLauncher/issues/26#issuecomment-4317040938) in [ChenglongMa/LOLauncher](https://github.com/ChenglongMa/LOLauncher)
-5. 🔒 Closed issue [#199](https://github.com/ChenglongMa/zoplicate/issues/199) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
+1. 🗣 Commented on [#201](https://github.com/ChenglongMa/zoplicate/issues/201#issuecomment-4455845644) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
+2. 🗣 Commented on [#201](https://github.com/ChenglongMa/zoplicate/issues/201#issuecomment-4450199837) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
+3. 🗣 Commented on [#201](https://github.com/ChenglongMa/zoplicate/issues/201#issuecomment-4450153752) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
+4. 🗣 Commented on [#26](https://github.com/ChenglongMa/LOLauncher/issues/26#issuecomment-4349604280) in [ChenglongMa/LOLauncher](https://github.com/ChenglongMa/LOLauncher)
+5. 🗣 Commented on [#26](https://github.com/ChenglongMa/LOLauncher/issues/26#issuecomment-4317040938) in [ChenglongMa/LOLauncher](https://github.com/ChenglongMa/LOLauncher)
 <!--END_SECTION:activity-->
 
 ---
