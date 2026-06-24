@@ -23,11 +23,11 @@ I'm Chenglong Ma (马成龙).
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#203](https://github.com/ChenglongMa/zoplicate/pull/203) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
-2. ❌ Closed PR [#202](https://github.com/ChenglongMa/zoplicate/pull/202) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
-3. 🗣 Commented on [#202](https://github.com/ChenglongMa/zoplicate/pull/202#issuecomment-4701221878) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
-4. 🗣 Commented on [#4](https://github.com/ChenglongMa/waker/issues/4#issuecomment-4665780255) in [ChenglongMa/waker](https://github.com/ChenglongMa/waker)
-5. ❌ Closed PR [#200](https://github.com/ChenglongMa/zoplicate/pull/200) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
+1. ❌ Closed PR [#184](https://github.com/ChenglongMa/zoplicate/pull/184) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
+2. ❌ Closed PR [#190](https://github.com/ChenglongMa/zoplicate/pull/190) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
+3. ❌ Closed PR [#138](https://github.com/ChenglongMa/zoplicate/pull/138) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
+4. ❌ Closed PR [#203](https://github.com/ChenglongMa/zoplicate/pull/203) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
+5. ❌ Closed PR [#202](https://github.com/ChenglongMa/zoplicate/pull/202) in [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate)
 <!--END_SECTION:activity-->
 
 ---
